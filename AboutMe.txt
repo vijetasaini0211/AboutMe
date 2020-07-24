@@ -5,6 +5,8 @@ MY SKILLS:
           HTML
           CSS
           Bootstrap
+          c
+          c++
           SQL
           Tkinter
           Graphic Designing
