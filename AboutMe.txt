@@ -2,12 +2,13 @@ Hello,
 My name is Vijeta Saini, pursuing B-Tech CSE from U.I.E.T. Kurukshetra. 
 
 MY SKILLS:
-          HTML
+          HTML5
           CSS
-          Bootstrap
+          Bootstrap4
           c
           c++
           SQL
+          Python
           Tkinter
           Graphic Designing
    
