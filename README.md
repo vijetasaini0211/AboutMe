@@ -5,13 +5,11 @@
 
 <h3>Skills:</h3>
 
-<h6>C</h6>
-<h6>C++</h6>
+<h6>C,C++</h6>
 <h6>Python</h6>
-<h6>HTML</h6>
-<h6>CSS</h6>
+<h6>HTML,CSS</h6>
 <h6>Bootstrap</h6>
 
 <h4>My LinkedIn profile</h4>
-<a href="https://www.linkedin.com/in/vijeta-saini-152978199" >LinkedIn</a>
+<a href="https://www.linkedin.com/in/vijeta-saini-152978199" target="_blank" >LinkedIn</a>
 
