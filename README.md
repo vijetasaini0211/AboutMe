@@ -1,7 +1,8 @@
 <h1 align="center"> About Me</h1>
 
 <h4 align="center">Hey! My name is Vijeta Saini.</h4>
-<p>I am a pre-final year student ,pursuing B-tech in Computer science From UIET Kurukshetra.I am interested in Web-Development.</p>
+<h2 align="center">Web Development Enthusiast</h2>
+<p>I am a pre-final year student ,pursuing B-tech in Computer science From UIET Kurukshetra.
 
 ###  Skills:
 
